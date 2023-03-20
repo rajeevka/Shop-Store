@@ -1,0 +1,68 @@
+.user{
+   
+    margin-top: 30px;
+    width: 96%;
+    box-sizing: border-box;
+    margin-left: 20px;
+    
+}
+.inputsRadio{
+    height: 5%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.cardContainer{
+    height: 90vh;
+    width: 100%;
+}
+.cardHeader{
+    margin: 10px;
+    margin-left: 20px;
+    width: 96%;
+    box-sizing: border-box;
+    height: 7%;
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: black;
+}
+.img{
+    width: 15%;
+}
+.name1{
+    width: 25%;
+}
+.email{
+    width: 30%;
+}
+.gender{
+    width: 20%;
+    text-align: end;
+}
+.card1{  
+   box-sizing: border-box;
+    margin: 5px;
+    width: 95%;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card{
+    height: 80%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    margin: 1px;
+    border-bottom: 1px solid grey;
+}
+.card:hover{
+    height: 80%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    margin: 1px;
+    border-bottom: 1px solid grey;
+    background-color: #cfcdcd;
+}
